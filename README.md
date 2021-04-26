@@ -22,5 +22,5 @@ I have this github profile to store personal projects that I use to learn new th
 
 ---
 
-You can find me on [<img src="https://cdn.worldvectorlogo.com/logos/linkedin.svg" alt="LinkedIn" height="75" width="75">](www.linkedin.com/in/ljperezt) or follow me on [<img src="https://cdn.worldvectorlogo.com/logos/twitter-4.svg" alt="Twitter" height="25" width="25">](https://twitter.com/ludwingperezt)
+You can find me on [<img src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" alt="LinkedIn" height="25" width="25">](https://www.linkedin.com/in/ljperezt) or follow me on [<img src="https://cdn.worldvectorlogo.com/logos/twitter-4.svg" alt="Twitter" height="25" width="25">](https://twitter.com/ludwingperezt)
 
