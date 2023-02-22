@@ -1,6 +1,6 @@
 ## Oh Hi! 👋 I'm Ludwing, Welcome to my Github profile!
 
-I'm grad you visited me.
+I'm glad you visited me.
 
 Let me talk a little about myself
 
